@@ -15,7 +15,7 @@ const data = search.videos[0];
 const url = data.url
 
 let desc = `
-✅MR.NADUWA-V1 SONG DOWNLOADER✅
+`KAVI_EXE_V1_SONG_DOWNLOADER_🎧` 
 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬◆
@@ -37,7 +37,7 @@ use prefix {.}  example {.song new rap,video new rap}
 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-▋ *_POWER BY MR.NADUWA_*  ▌
+▋ *_POWER BY `KAVI_EXE`_*  ▌
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 
@@ -79,7 +79,8 @@ const data = search.videos[0];
 const url = data.url
 
 let desc = `
-✅MR.NADUWA-V1 VIDEO DOWNLOADER✅
+`KAVI_EXE_V1_VIDEO_DOWNLOADER_🎬` 
+
 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬◆
@@ -101,7 +102,7 @@ use prefix {.}  example {.song new rap,video new rap}
 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-▋ *_POWER BY MR.NADUWA_*  ▌
+▋ *_POWER BY KAVI_EXE_*  ▌
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 `
