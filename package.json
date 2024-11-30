@@ -1,12 +1,12 @@
 {
-  "name": "MR.NADUWA-V1",
+  "name": "KAVI_EXE_V1",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MR.NADUWA-V1",
-    "stop": "pm2 stop MR.NADUWA-V1",
-    "restart": "pm2 restart MR.NADUWA-V1"
+    "start": "pm2 start index.js --deep-monitoring --attach --name KAVI EXE_V1",
+    "stop": "pm2 stop KAVI EXE -V1",
+    "restart": "pm2 restart KAVI EXE-V1"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
