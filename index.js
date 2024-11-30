@@ -19,7 +19,7 @@ const axios = require('axios')
 const { File } = require('megajs')
 const prefix = '.'
 
-const ownerNumber = ['94767073275']
+const ownerNumber = ['94760383959']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -29,7 +29,7 @@ const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
 fs.writeFile(__dirname + '/auth_info_baileys/creds.json', data, () => {
-console.log("Session downloaded ✅")
+console.log("Session downloaded ☑️")
 })})}
 
 const express = require("express");
@@ -59,7 +59,7 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('😼 Installing... ')
+console.log('*️📱 Installing... ')
 const path = require('path');
 fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
@@ -69,7 +69,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `✅MR.NADUWA-V1 CONNECTE SUCCESSFUL ✅\n\nPREFIX: ${prefix}`;
+let up = `✔KAVI_EXE_V1 CONNECTE SUCCESSFUL ☑️\n\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/6fea4e5e00bc0d9395f15.jpg` }, caption: up })
 
@@ -136,14 +136,14 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
               }
             }
 //owner-reacts============================
-if(senderNumber.includes("94767073275")){
+if(senderNumber.includes("94760383959")){
 if(isReact) return
-m.react("⚖️")
+m.react("👨🏻‍💻")
 }
 
-if(senderNumber.includes("94724949546")){
+if(senderNumber.includes("94760383959")){
 if(isReact) return
-m.react("⚖️")
+m.react("👨🏻‍💻")
 }
 //===============lastseen===========
             if (config.ALWAYS_ONLINE === 'true'){
@@ -159,7 +159,7 @@ if(config.AUTO_TYPING === 'true'){
             }
 //Auto-StatusDL==============
 
-if(body === "send" || body === "Send" || body === "Ewpm" || body === "ewpn" || body === "Dapan" || body === "dapan" || body === "oni" || body === "Oni" || body === "save" || body === "Save" || body === "ewanna" || body === "Ewanna" || body === "ewam" || body === "Ewam" || body === "sv" || body === "Sv"|| body === "දාන්න"|| body === "එවම්න"){
+if(body === "send" || body === "Send" || body === "Ewpm" || body === "ewpn" || body === "Dapan" || body === "dapan" || body === "oni" || body === "Oni" || body === "save" || body === "Save" || body === "ewanna" || body === "Ewanna" || body === "ewam" || body === "Ewam" || body === "sv" || body === "Sv"|| body === "ᴷᵃᵛⁱ_ᵉˣᵉ"|| body === "එවම්න"){
     // if(!m.quoted) return reply("*Please Mention status*")
     const data = JSON.stringify(mek.message, null, 2);
     const jsonData = JSON.parse(data);
@@ -244,7 +244,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
         
 }
 app.get("/", (req, res) => {
-res.send("hey, bot started✅");
+res.send("hey, BOT Started☑️");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
