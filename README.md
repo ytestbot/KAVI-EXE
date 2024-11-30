@@ -1,9 +1,10 @@
-><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-<img src="https://pomf2.lain.la/f/pkuujaup.jpg"/> 
-<p align="center">
-  <a href="https://deposit.pictures/p/6a435b3fcd004dc58ed1957f432132bf"><img
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+.Kavi_EXE+V1+-BOT.;DEVELOPED+BY+KAVI_EXE+LORD;REALESE+DATE+?." alt="Typing SVG" /></a>
-</p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center"><b>𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙈𝘿 ✅𝗩𝗫5</b>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Black+Panther+MD+Created+By+Ibrahim..&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/ec8ce4af1d8fa3271e26a.jpg" alt="01" border="0" /></a>     
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
