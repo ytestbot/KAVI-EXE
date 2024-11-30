@@ -71,7 +71,7 @@ console.log('Bot connected to whatsapp ✅')
 
 let up = `✔KAVI_EXE_V1 CONNECTE SUCCESSFUL ☑️\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/6fea4e5e00bc0d9395f15.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://pomf2.lain.la/f/pkuujaup.jpg` }, caption: up })
 
 }
 })
