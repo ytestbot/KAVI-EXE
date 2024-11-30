@@ -8,9 +8,3 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
   <a href="https://ibb.co/N6NMDtn"><img src="https://pomf2.lain.la/f/pkuujaup.jpg" alt="01" border="0" /></a>     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-### 2. Get Session ID via Pair Code
-
-You'll need a session ID to run the bot. Click the button below to obtain your session ID:
-
-<a href='https://kavi-exe-v1-pair.onrender.com="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
-
