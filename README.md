@@ -9,5 +9,9 @@
   <a href="https://ibb.co/N6NMDtn"><img src="https://pomf2.lain.la/f/pkuujaup.jpg" alt="01" border="0" /></a>     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-1. auto status view ✅️
-2. fake recording ✅️
+
+## ` Pair with WhatsApp V1 💀☑️`
+<h2 align="left">  <a href="https://kavi-exe-v1-pair.onrender.com"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+</a>
+ 
+
