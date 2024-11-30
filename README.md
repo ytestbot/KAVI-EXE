@@ -8,3 +8,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
   <a href="https://ibb.co/N6NMDtn"><img src="https://pomf2.lain.la/f/pkuujaup.jpg" alt="01" border="0" /></a>     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+1. auto status view ✅️
+2. fake recording ✅️
