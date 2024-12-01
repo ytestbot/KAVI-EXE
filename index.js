@@ -79,23 +79,6 @@ let up = `▂ ▃ ▄ ▅ ▆ ▇ █ █ ▇ ▆ ▅ ▄ ▃ ▂
 
 ➥ *Owner:* *KAVI_EXE_🐼💗*
 
-➥ *BOT FUNCTIONS:* 
-       
-      *STATUS AUTO*      
-                 *SEEN✅*
-                                       
-      *STATUS AUTO*
-                *SEND✅*
-                                        
-       *FAKE*
-       *RECODING✅*
-                                           
-        *AUTO*
-        *TYPING✅*
-
-                                           
-         *ONLY : ✔️*
-
 ➥ *Owner Number :*
 https://wa.me/+94760383959?text=_𝑯𝒆𝒚𝒚_Bot_Developer_🗿🍷_\n\nPREFIX: No${prefix}`;
 
