@@ -135,16 +135,7 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
                 return conn.sendMessage(jid, { audio: await getBuffer(url), caption: caption, mimetype: 'audio/mpeg', ...options }, { quoted: quoted, ...options })
               }
             }
-//owner-reacts============================
-if(senderNumber.includes("94772199634")){
-if(isReact) return
-m.react("👨🏻‍💻")
-}
 
-if(senderNumber.includes("94772199634")){
-if(isReact) return
-m.react("👨🏻‍💻")
-}
 //===============lastseen===========
             if (config.ALWAYS_ONLINE === 'true'){
                 await conn.sendPresenceUpdate('available', mek.key.remoteJid)
