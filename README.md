@@ -43,6 +43,10 @@
 ## ```Run in Bot hosting.net```
 <p align="center">
 
-<a href="https://account.solarhosting.cc/register?ref=bNIPlLKD">
+
+```
+
+https://bot-hosting.net/login
+
   
 
