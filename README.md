@@ -30,5 +30,19 @@
 ## ` Pair with WhatsApp V1 💀☑️`
 <h2 align="left">  <a href="https://poor-saundra-kavishkatharushan-5d1d5870.koyeb.app/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
 </a>
- 
+
+
+ # Setup For Deployment 👇
+
+- ⛔Download THE REPOSITORY
+
+
+
+
+# edit you config.js > & put youer session id 👇
+## ```Run in Bot hosting.net```
+<p align="center">
+
+<a href="https://account.solarhosting.cc/register?ref=bNIPlLKD">
+  
 
