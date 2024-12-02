@@ -39,12 +39,12 @@
 
 
 
-**(E) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
+**(E) KataBump PANEL🔥(DISCORD) DEPLOYMENT**
 <details>
 <summary>TAP TO OPEN</summary>
 <a href=""><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
-<a href="https://bot-hosting.net/?aff=994668265710293012"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+<a href="https://dashboard.katabump.com/welcome/#b0cbf7"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
