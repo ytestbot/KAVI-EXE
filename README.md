@@ -39,14 +39,15 @@
 
 
 
-# edit you config.js > & put youer session id 👇
-## ```Run in Bot hosting.net```
-<p align="center">
+**(E) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
+<details>
+<summary>TAP TO OPEN</summary>
+<a href="https://codes.giftedtech.my.id/download/gifted-main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+  
+<a href="https://bot-hosting.net/?aff=994668265710293012"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+</details
 
-
-```
-
-https://bot-hosting.net/login
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   
 
