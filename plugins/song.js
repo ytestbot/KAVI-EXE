@@ -1,5 +1,6 @@
 cmd({ const {cmd , commands} = require('../command')
-        const yts = require('yt-search');
+       const config = require('../config')
+       const yts = require('yt-search');
 	pattern: "song2", 
 	desc: "Download songs", 
 	category: "download", 
